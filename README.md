@@ -10,7 +10,7 @@ Hi, I’m Palagulla Haneesh Reddy (V), a final-year Computer Science student at 
 
 Online Bus Reservation System (MERN)
 
-Placement Portal (Admin, Student, Recruiter roles)
+Campus Recruitment and placement tracking System (Spring Boot and MySql)
 
 🏅 Certified in AWS Cloud Practitioner and  Red Hat Enterprise Application Developer (EX-183) 
 
