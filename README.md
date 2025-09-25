@@ -1,6 +1,18 @@
 # Profile
 # 💫 About Me:
-Hi, I'm Palagulla Haneesh Reddy, a passionate and self-driven Computer Science student with a strong interest in full-stack development, competitive programming, and AI-driven solutions. I'm currently exploring how emerging technologies like machine learning, cybersecurity, and cloud computing intersect to solve real-world problems.<br><br>🎓 B.Tech CSE | KL University<br><br>💼 Peer Mentor – DDAI & Crypt Analysis and Cyber Defense (CACD)<br><br>🛠️ Tech Stack: C, Python, Java, JavaScript, React.js, Node.js, MongoDB, MySQL, Html, Css, SpringBoot<br><br>🔐 Certified in Red Hat Application Development (EX-183) & Aws Cloud Practitioner<br><br>💻 Building projects like Bus Reservation System, and Placement Portal<br><br>✍️ I love working on open-source, contributing to communities, and writing clean, scalable code.<br><br>"Code is like humor. When you have to explain it, it’s bad." – Cory House
+Hi, I’m Palagulla Haneesh Reddy (V), a final-year Computer Science student at KL University with a strong foundation in Java, Python, C++, and Full-Stack Web Development (MERN, React).
+
+🎯 Passionate about Software Development, Problem-Solving, and Financial Technology
+
+💡 Skilled in Spring Boot, Hibernate JPA, REST APIs, Microservices, and Cloud Concepts
+
+📂 Projects:
+
+Online Bus Reservation System (MERN)
+
+Placement Portal (Admin, Student, Recruiter roles)
+
+🏅 Certified in AWS Cloud Practitioner and  Red Hat Enterprise Application Developer (EX-183) 
 
 
 # 💻 Tech Stack:
