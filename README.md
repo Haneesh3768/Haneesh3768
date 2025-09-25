@@ -1,6 +1,6 @@
 # Profile
 # 💫 About Me:
-Hi, I’m Palagulla Haneesh Reddy (V), a final-year Computer Science student at KL University with a strong foundation in Java, Python, C++, and Full-Stack Web Development (MERN, React).
+Hi, I’m Palagulla Haneesh Reddy , a final-year Computer Science student at KL University with a strong foundation in Java, C and Full-Stack Web Development (Spring Boot , MERN).
 
 🎯 Passionate about Software Development, Problem-Solving, and Financial Technology
 
