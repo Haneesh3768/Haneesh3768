@@ -1,5 +1,21 @@
-# 💫 About Me:
-👋 Hey there! I’m Haneesh Reddy, a CS student and full-stack developer. I love building apps, solving coding challenges, and exploring new technologies.<br><br>🌱 Currently learning: AI/ML, advanced algorithms, microservices<br>💡 Passionate about: Web development, competitive programming<br>📫 Connect with me: https://www.linkedin.com/in/p-haneesh-reddy-51a383289/
+# 💫 💻 About Me
+
+👋 Hey there! I’m Haneesh Reddy, a Computer Science student at KL University, passionate about turning ideas into impactful software. I’m a full-stack developer with hands-on experience in building real-world applications like a Campus Recruitment & Placement Tracking System, Bus Reservation System, and an Expense Tracker with Budgeting Features.
+
+🚀 Currently exploring:
+
+Advanced Data Structures and Algorithms (for competitive programming)
+
+Scalable System Design and Microservices
+
+🏆 Recent highlights:
+
+EX-183 Red Hat Certified Enterprise Application Developer
+
+AWS Cloud Practitioner CLF-C02
+
+💡 Passionate about:
+Web development, security operations, AI-driven innovation, and solving challenging algorithmic problems.
 
 
 ## 🌐 Socials:
