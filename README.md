@@ -1,5 +1,5 @@
 # 💫 About Me:
-Backend engineer who debugs and ships production-critical fixes for fashion-tech e-commerce platforms.<br>Skilled in Node.js/Prisma/MongoDB architect
+Software Engineer with industry experience delivering production-grade backend systems and full-stack features for a large-scale e-commerce platform. Skilled in developing RESTful APIs, designing scalable backend architectures, optimizing database performance, and resolving complex production issues using Node.js, Express.js, React.js, TypeScript, Prisma ORM, MongoDB, and AWS. Passionate about writing clean, maintainable code and building reliable software that delivers measurable business value.
 
 
 # 💻 Tech Stack:
